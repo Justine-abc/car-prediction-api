@@ -17,6 +17,7 @@ To run the Flutter mobile application:
 5. Enter the Engine Size (e.g., 2.4), Cylinders (e.g., 4), and Fuel Consumption (e.g., 8.5) and click "Predict".
 
 ## Video Demo
+https://youtu.be/SezP-0YAmLo?si=VqWFWd3qfUyd9Glm 
 
 ## Project Structure
 * **linear_regression/**: Contains the `multivariate.ipynb` notebook used for data cleaning, visualization, and model training.
