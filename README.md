@@ -11,9 +11,9 @@ This project aims to help conscious car buyers estimate the environmental impact
 ## Mobile App Instructions
 To run the Flutter mobile application:
 1. Ensure you have Flutter installed on your machine.
-2. Navigate to the "car_emission_app" directory.
-3. Run "flutter pub get" to install dependencies (specifically the "http" package).
-4. Run the app using the command: "flutter run -d windows" (recommended for testing) or `flutter run -d chrome` or use flutter run, and choose 1 for windows, 2 for chrome.
+2. Navigate to the `car_emission_app` directory.
+3. Run `flutter pub get` to install dependencies (specifically the "http" package).
+4. Run the app using the command: `flutter run -d windows` (recommended for testing) or `flutter run -d chrome` or use flutter run, and choose 1 for windows, 2 for chrome.
 5. Enter the Engine Size (e.g., 2.4), Cylinders (e.g., 4), and Fuel Consumption (e.g., 8.5) and click "Predict".
 
 ## Video Demo
